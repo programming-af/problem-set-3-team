@@ -1,6 +1,6 @@
 ---
-title: "30538 Problem Set 3: git pair"
-author: "Dema Therese"
+title: "30538 Problem Set 3: git pair: Andy Fan, Will Segal"
+author: "Andy Fan, Will Segal"
 format: 
   pdf:
     include-in-header: 
@@ -21,6 +21,10 @@ include-before-body:
 ```{python}
 import pandas as pd
 import numpy as np
+
+import altair as alt
+import time
+import os
 
 np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
