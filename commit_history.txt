@@ -1,0 +1,20 @@
+
+Partner 1: will Sigal; Github name: willsigal
+Partner 2: Andy Fan; Github name: programming-af
+a022515 - programming-af, 2 minutes ago : Update ps3_pair.qmd
+4498390 - programming-af, 5 minutes ago : Merge pull request #5 from programming-af/histogram
+f3e60d1 - programming-af, 5 minutes ago : Merge branch 'main' into histogram
+119592f - willsigal, 6 minutes ago : Merge pull request #4 from programming-af/describe
+f027801 - willsigal, 9 minutes ago : round two of edits
+1c6efbb - programming-af, 11 minutes ago : round2 partner 2 publish to describe
+1e33d97 - willsigal, 17 minutes ago : Merge pull request #3 from programming-af/merge_conflict_name_2
+097026f - willsigal, 17 minutes ago : Merge branch 'main' into merge_conflict_name_2
+9f7d7ca - willsigal, 25 minutes ago : Merge branch 'main' into merge_conflict_name_1
+60d8335 - willsigal, 29 minutes ago : s
+90e8b2e - willsigal, 43 minutes ago : replace name with wsigal
+6e6d9e5 - programming-af, 45 minutes ago : step1
+d1122d0 - programming-af, 50 minutes ago : Create ps3_pair.qmd
+6741c02 - programming-af, 54 minutes ago : starting over
+d318a4b - programming-af, 19 hours ago : create template
+0414a7a - programming-af, 19 hours ago : Create README.md
+fe5396e - programming-af, 19 hours ago : Create ps3_pair.qmd
