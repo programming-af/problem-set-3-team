@@ -37,18 +37,15 @@ def preview_data(df):
     histogram = alt.Chart(df).mark_bar().encode(alt.X('Random Numbers', bin = alt.Bin(maxbins = 30)),
     y = 'count()')
 
-    return [head, histogram]
+    description = df.describe()
+
+    return [head, histogram, description]
 
 result = preview_data(data)
 
+result[0]
 result[1]
-=======
-    head = df.head()
-    description = df.describe()
-    
-    return [head, description]
-
-preview_data(data)
+result[2]
 
 
 ```
