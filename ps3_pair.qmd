@@ -1,6 +1,10 @@
 ---
 title: "30538 Problem Set 3: git pair"
+
+author: "Andy Fan"
+=======
 author: "will Sigal"
+
 format: 
   pdf:
     include-in-header: 
