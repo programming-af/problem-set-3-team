@@ -1,0 +1,32 @@
+---
+title: "30538 Problem Set 3: git pair"
+author: "Dema Therese"
+format: 
+  pdf:
+    include-in-header: 
+       text: |
+         \usepackage{fvextra}
+         \DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+include-before-body:
+  text: |
+    \RecustomVerbatimEnvironment{verbatim}{Verbatim}{
+      showspaces = false,
+      showtabs = false,
+      breaksymbolleft={},
+      breaklines
+    }
+---
+---
+
+```{python}
+import pandas as pd
+import numpy as np
+
+np.random.seed(42)
+data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
+
+def preview_data(df):
+    print(df.head())
+
+preview_data(data)
+```
